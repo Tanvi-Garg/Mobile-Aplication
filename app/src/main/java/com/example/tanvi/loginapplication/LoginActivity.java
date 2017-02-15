@@ -165,6 +165,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         /*if (mAuthTask != null) {
             return;
         }
+        this is aadded extra comment
 
         // Reset errors.
         mEmailView.setError(null);
